@@ -56,7 +56,7 @@ const Login = () => {
             <Link to="/register" className="text-blue-600">
               Şimdi kaydol
             </Link>
-          </div>
+        </div>
         </div>
         <div className="xl:w-4/6 lg:w-3/5 md:w-1/2 md:flex hidden bg-[#6c63ff] h-full">
           <div className="w-full h-full flex items-center">
